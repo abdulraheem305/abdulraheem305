@@ -21,7 +21,7 @@ Full-Stack Software Engineer | React • Next.js • Angular • Node.js • Nes
 
 Full-Stack Software Engineer with hands-on experience designing, developing, and scaling **production-ready web and desktop applications**.
 
-Strong background across the **full software development lifecycle (SDLC)** — from system architecture and development to testing, deployment, and performance optimization.
+Strong background across the **full software development lifecycle (SDLC)** from system architecture and development to testing, deployment, and performance optimization.
 
 I specialize in building scalable, secure systems and delivering high-quality, maintainable software aligned with business objectives.
 
