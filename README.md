@@ -70,15 +70,15 @@ I specialize in building scalable, secure systems and delivering high-quality, m
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdulraheem305&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulraheem305&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 🔥 Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0f172a&color=D4AF37&line=D4AF37&point=ffffff&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulraheem305&bg_color=0f172a&color=D4AF37&line=D4AF37&point=ffffff&hide_border=true" />
 </p>
 
 ---
