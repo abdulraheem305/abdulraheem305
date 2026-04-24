@@ -4,9 +4,9 @@ Full-Stack Software Engineer | React • Next.js • Angular • Node.js • Nes
 </h3>
 
 <p align="center">
-  <a href="https://abdul-ur-raheem.vercel.app/" target="_blank">🌐 Portfolio</a> •
-  <a href="https://www.linkedin.com/in/abdul-ur-raheem-9b9898332/" target="_blank">💼 LinkedIn</a> •
-  <a href="mailto:abdulraheemdevelop@gmail.com">📩 Email</a>
+  🌐 <a href="https://abdul-ur-raheem.vercel.app/">Portfolio</a> •
+  💼 <a href="https://www.linkedin.com/in/abdul-ur-raheem-9b9898332/">LinkedIn</a> •
+  📩 <a href="mailto:abdulraheemdevelop@gmail.com">Email</a>
 </p>
 
 ---
